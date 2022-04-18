@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "tic_tac_toe",
+		"path": "."
+	},
+	{
+		"name": "src",
+		"path": "../../../Downloads/TicTacToe-main/src"
+	}
+],
+  "settings": {}
+}
